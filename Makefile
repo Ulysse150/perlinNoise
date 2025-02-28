@@ -1,5 +1,5 @@
 CXX = g++
-CXXFLAGS = -I/usr/include/SDL2
+CXXFLAGS = -I./include/SDL2
 LDFLAGS = -lSDL2
 
 TARGET = application
